@@ -1,6 +1,6 @@
 # python_virtual_enviroment
 
-Run virtual enviroment -> pip -m .venv
+Run virtual enviroment -> py -m .venv venv
 
 add .env in root. inside .env
 go to https://openweathermap.org/ to create account and get api key
